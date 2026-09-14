@@ -2,7 +2,7 @@
 
 > Simple guide for anyone cloning this repo: what we built, why we built it this way, and what edge cases we handled.
 
-**Live Demo:** *([add after Vercel deploy](https://college-campus-beige.vercel.app/))* `https://college-campus-xxx.vercel.app`  
+**Live Demo:***(https://college-campus-beige.vercel.app/))* 
 **GitHub:** `https://github.com/Omkumar-pal/college-campus`  
 **Track:** A — College Discovery Platform (Full Stack) — Next.js + Prisma + Neon Postgres  
 **Seed Login for Testing:** `example@gmail.com / 123456` (Megha Pal) — bcrypt `123456`, 15 other users are `name@example.com / password123`
